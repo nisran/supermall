@@ -1,0 +1,9 @@
+root = true
+
+
+[*]
+charset = utf-8
+# indent_size = 4
+
+
+# 代码风格，cli3开始不要了，但是比较重要
