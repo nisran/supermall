@@ -11,4 +11,6 @@
    -NETWORK：网络相关
    -COMMON：公共JS
 2. 引用两个CSS文件
-3. 别名的配置（VUE.CONFIG.）（.EDITORCONFIG文件，定义团队代码风格等）
+3. 别名的配置（vue.config.js）（.EDITORCONFIG文件，定义团队代码风格等）
+### 2.tabBar
+
